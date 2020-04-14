@@ -16,10 +16,8 @@ It contains only numerical input variables which are the result of a PCA transfo
 |-------------------	|-----------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------	|----------------------------------	|---------------	|
 | 1                 	| Time                  	| Time: time in seconds  format sec                                                                                                                                                                                       	| Quantitative 	| 0,1,2 	                        | ?             	|
 | 2                 	| V1-V28                  	| may be result of a PCA Dimensionality reduction to protect user identities and sensitive features(v1-v28)                                                                                                                                                                                         	| Quantitative 	| 0.16648011335321, 0.26615071205963      	| ?             	|
-| 3                 	| Amount                   	| Transaction amount                                                                    
-        | Quantitative 	| 378.66, 69.99              	    | ?             	|
-| 4                 	| Class 	| 1 for fraudulent transactions, 0 otherwise                                                                                                                                  	
-        | Quantitative 	| 0, 1, 0               	        | ?             	|
+| 3                 	| Amount                   	| Transaction amount                                                                    | Quantitative 	| 378.66, 69.99              	    | ?             	|
+| 4                 	| Class 	| 1 for fraudulent transactions, 0 otherwise                                                            | Quantitative 	| 0, 1, 0               	        | ?             	|
 
 ---
 
